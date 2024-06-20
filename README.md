@@ -1,4 +1,4 @@
-Food Recognition and Calories Estimation using Machine Learning
+Food Recognition and Calories Estimation using Machine Learning(Naman Kumar)
 
 
 Overview:
